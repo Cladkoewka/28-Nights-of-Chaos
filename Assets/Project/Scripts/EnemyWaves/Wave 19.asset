@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 033020fdc667ee346a835ab400d286ba, type: 3}
+  m_Name: Wave 19
+  m_EditorClassIdentifier: 
+  Enemies:
+  - {fileID: 1885136576897782001, guid: 45326c21c6d0e8741be49a3927a346dd, type: 3}
+  - {fileID: 1885136576897782001, guid: 679f2c651ce2e2b49bef5feaed96b280, type: 3}
+  - {fileID: 1885136576897782001, guid: 6d6a2ae500efd164585ec1512ebb23a3, type: 3}
+  - {fileID: 3836224250153665575, guid: 26f3e7439f2006347b769c99025a93b4, type: 3}
+  - {fileID: 1885136576897782001, guid: 0d552d2986e82ae4b9020eee7631c501, type: 3}
+  - {fileID: 3836224250153665575, guid: b4fc2ea454129f745a2d46eef02fb9d4, type: 3}
+  - {fileID: 1885136576897782001, guid: c448fb716b2c25a4f849ddeb6574f823, type: 3}
+  - {fileID: 1885136576897782001, guid: cb9cd588aa20c6f44bd7ae21d442facc, type: 3}
+  - {fileID: 1885136576897782001, guid: 5abb480afa1acfd4f9535ff6bb1bb6ed, type: 3}
+  - {fileID: 1885136576897782001, guid: c0d75477b23414a419ae369226d262ce, type: 3}
+  SpawnInterval: 1.6
+  EnemiesCount: 46
